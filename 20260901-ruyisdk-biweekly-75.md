@@ -12,6 +12,10 @@
 
 ### RuyiSDK IDE
 
+- VSCodium 平台 RuyiSDK 插件适配，Java、JavaScript、Go、Python 语言相关插件测试。
+- 维护 CI 脚本，提高安全性。
+- 调整 IDE 侧边栏图标样式，提高辨识度。
+
 ### 版本测试及遗留问题
 
 ## 社区与内容建设
