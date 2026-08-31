@@ -12,6 +12,7 @@
 
 ### RuyiSDK IDE
 
+- 完善 Sipeed Lichee Pi 4A 的相关文档。
 - VSCodium 平台 RuyiSDK 插件适配，Java、JavaScript、Go、Python 语言相关插件测试。
 - 维护 CI 脚本，提高安全性。
 - 调整 IDE 侧边栏图标样式，提高辨识度。
